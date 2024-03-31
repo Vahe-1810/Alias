@@ -1,0 +1,48 @@
+{
+  "common": {
+    "ln": "language",
+    "title": "alias",
+    "team": "Team",
+    "player": "Player",
+    "words": "Words",
+    "word": "word",
+    "start": "Start",
+    "score": "Score",
+    "point": "Point",
+    "time": "Time",
+    "ok": "Ok"
+  },
+  "menu": {
+    "play": "Play",
+    "settings": "Settings",
+    "quit": "Quit"
+  },
+  "setup": {
+    "add": "new player",
+    "back": "Back",
+    "nextTeam": "Next Team",
+    "newTeam": "New Team",
+    "sec": "sec",
+    "typeHere": "Type Here",
+    "validationText": "Please fill in the names of all teams and players to continue"
+  },
+  "progress": {
+    "skip": "Skip",
+    "guess": "Guess",
+    "continue": "Continue",
+    "finish": "Finish?",
+    "info": "You still have time. Are you sure you want to change the turn?",
+    "reject": "Continue game",
+    "resolve": "Finish"
+  },
+  "finish": {
+    "winner": "Winner Team!",
+    "playAgain": "Play Again"
+  },
+  "alert": {
+    "header": "Discard changes?",
+    "info": "You have unsaved changes. Are you sure to discard them and leave the screen?",
+    "reject": "Don't leave",
+    "resolve": "Discard"
+  }
+}

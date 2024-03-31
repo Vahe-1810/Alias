@@ -1,0 +1,14 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["ESNext"],
+    "paths": {
+      "assets/*": ["./src/assets/*"],
+      "components/*": ["./src/components/*"],
+      "theme": ["./src/theme/index"],
+      "screens/*": ["./src/screens/*"],
+      "types": ["./src/types/index"]
+    }
+  }
+}
